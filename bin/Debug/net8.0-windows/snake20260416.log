@@ -1,0 +1,798 @@
+2026-04-16 18:12:38.900 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:13:26.248 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:14:09.861 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:23:40.452 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:31:27.213 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:31:42.070 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:32:00.700 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:32:28.861 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:36:20.707 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:37:14.889 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:40:42.505 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:41:30.823 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:42:04.777 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:43:05.262 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:44:21.037 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:45:35.230 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:47:12.055 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:50:32.835 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:52:42.744 +02:00 [DBG] Logger initialisiert
+2026-04-16 18:52:55.274 +02:00 [DBG] Logger initialisiert
+2026-04-16 20:07:11.811 +02:00 [DBG] Logger initialisiert
+2026-04-16 20:07:11.858 +02:00 [INF] Main Window Loaded
+2026-04-16 20:07:15.309 +02:00 [DBG] Settings Button Pressed
+2026-04-16 20:07:15.314 +02:00 [DBG] Slider: Feldweite changed to 5
+2026-04-16 20:07:15.315 +02:00 [DBG] Slider: Feldhöhe changed to 5
+2026-04-16 20:07:15.315 +02:00 [DBG] Slider: Startlength changed to 1
+2026-04-16 20:07:15.316 +02:00 [DBG] Slider: Startspeed changed to 1
+2026-04-16 20:07:15.316 +02:00 [DBG] Settings window initialized
+2026-04-16 20:07:15.317 +02:00 [DBG] Loaded current Settings into GUI
+2026-04-16 20:07:17.616 +02:00 [DBG] Slider: Feldweite changed to 6
+2026-04-16 20:07:17.639 +02:00 [DBG] Slider: Feldweite changed to 7
+2026-04-16 20:07:17.650 +02:00 [DBG] Slider: Feldweite changed to 8
+2026-04-16 20:07:17.661 +02:00 [DBG] Slider: Feldweite changed to 9
+2026-04-16 20:07:17.672 +02:00 [DBG] Slider: Feldweite changed to 10
+2026-04-16 20:07:17.684 +02:00 [DBG] Slider: Feldweite changed to 11
+2026-04-16 20:07:17.697 +02:00 [DBG] Slider: Feldweite changed to 12
+2026-04-16 20:07:19.183 +02:00 [DBG] Slider: Feldhöhe changed to 6
+2026-04-16 20:07:19.320 +02:00 [DBG] Slider: Feldhöhe changed to 7
+2026-04-16 20:07:20.553 +02:00 [DBG] Slider: Startlength changed to 2
+2026-04-16 20:07:20.713 +02:00 [DBG] Slider: Startlength changed to 3
+2026-04-16 20:07:20.808 +02:00 [DBG] Slider: Startlength changed to 4
+2026-04-16 20:07:22.098 +02:00 [DBG] Slider: Startspeed changed to 2
+2026-04-16 20:07:22.195 +02:00 [DBG] Slider: Startspeed changed to 3
+2026-04-16 20:07:22.371 +02:00 [DBG] Slider: Startspeed changed to 4
+2026-04-16 20:07:22.520 +02:00 [DBG] Slider: Startspeed changed to 5
+2026-04-16 20:07:22.648 +02:00 [DBG] Slider: Startspeed changed to 6
+2026-04-16 20:07:22.727 +02:00 [DBG] Slider: Startspeed changed to 7
+2026-04-16 20:07:23.045 +02:00 [DBG] Slider: Startspeed changed to 6
+2026-04-16 20:07:23.724 +02:00 [DBG] Attempted to quit Settings
+2026-04-16 20:07:23.724 +02:00 [DBG] Safed current settings
+2026-04-16 20:07:23.740 +02:00 [DBG] Settings Closed
+2026-04-16 20:07:24.581 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:07:24.583 +02:00 [INF] Game Window Initialized
+2026-04-16 20:07:24.583 +02:00 [DBG] Settings Applied
+2026-04-16 20:07:24.584 +02:00 [DBG] Food created
+2026-04-16 20:07:24.599 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:07:24.601 +02:00 [DBG] Snake created
+2026-04-16 20:07:24.601 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:07:24.602 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:07:24.802 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:24.803 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:25.069 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:25.069 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:25.240 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:25.240 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:25.443 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:25.443 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:25.707 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:25.707 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:25.941 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:25.942 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:26.158 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:26.159 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:26.346 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:26.347 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:26.517 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:26.517 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:26.689 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:26.690 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:26.690 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:07:26.690 +02:00 [DBG] New Apple spawned
+2026-04-16 20:07:26.690 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:07:26.876 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:26.876 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:27.063 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:27.063 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:27.279 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:27.279 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:27.591 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:27.591 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:27.791 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:27.791 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:28.008 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:28.009 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:28.179 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:28.179 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:28.366 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:28.366 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:28.552 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:28.552 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:28.784 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:28.784 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:28.999 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:28.999 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:29.387 +02:00 [DBG] Snake moved Left
+2026-04-16 20:07:29.388 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:29.590 +02:00 [DBG] Snake moved Left
+2026-04-16 20:07:29.591 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:29.900 +02:00 [DBG] Snake moved Left
+2026-04-16 20:07:29.900 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:30.072 +02:00 [DBG] Snake moved Left
+2026-04-16 20:07:30.072 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:30.259 +02:00 [DBG] Snake moved Left
+2026-04-16 20:07:30.259 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:30.490 +02:00 [DBG] Snake moved Left
+2026-04-16 20:07:30.490 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:30.676 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:30.676 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:30.892 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:30.893 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:31.064 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:31.064 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:31.281 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:31.281 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:31.637 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:31.638 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:31.870 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:31.870 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:32.057 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:32.057 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:32.058 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:07:32.058 +02:00 [DBG] New Apple spawned
+2026-04-16 20:07:32.058 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:07:32.259 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:32.312 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:32.312 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:07:32.314 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:07:42.462 +02:00 [DBG] Loaded file: Scores
+2026-04-16 20:07:42.462 +02:00 [DBG] Added Name to List
+2026-04-16 20:07:42.463 +02:00 [DBG] Safed file: Scores
+2026-04-16 20:07:42.485 +02:00 [DBG] Game Closed=true
+2026-04-16 20:07:47.130 +02:00 [DBG] Load Game Button Pressed
+2026-04-16 20:07:47.147 +02:00 [INF] Game Window (Loaded Option) Initialized
+2026-04-16 20:07:47.148 +02:00 [DBG] Settings Initialized
+2026-04-16 20:07:47.203 +02:00 [DBG] Tiles overwritten from save-file
+2026-04-16 20:07:47.205 +02:00 [DBG] Tiles and Lines applied to Canvas 11x11
+2026-04-16 20:07:47.206 +02:00 [DBG] Snake loaded from Save-file
+2026-04-16 20:07:47.384 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:47.385 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:47.542 +02:00 [DBG] Snake moved Up
+2026-04-16 20:07:47.542 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:48.083 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:48.084 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:48.269 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:48.269 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:48.424 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:48.425 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:48.720 +02:00 [DBG] Snake moved Right
+2026-04-16 20:07:48.720 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:48.984 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:48.985 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:48.985 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:07:48.985 +02:00 [DBG] New Apple spawned
+2026-04-16 20:07:48.985 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:07:49.220 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:49.220 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:49.376 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:49.376 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:49.671 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:49.671 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:49.840 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:49.841 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:50.028 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:50.028 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:50.228 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:50.229 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:50.415 +02:00 [DBG] Snake moved Down
+2026-04-16 20:07:50.438 +02:00 [DBG] Canvas Updated
+2026-04-16 20:07:50.438 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:07:50.438 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:07:55.535 +02:00 [DBG] Loaded file: Scores
+2026-04-16 20:07:55.535 +02:00 [DBG] Added Name to List
+2026-04-16 20:07:55.536 +02:00 [DBG] Safed file: Scores
+2026-04-16 20:07:55.557 +02:00 [DBG] Game Closed=true
+2026-04-16 20:07:56.824 +02:00 [DBG] Leaderboards Button Pressed
+2026-04-16 20:07:56.826 +02:00 [DBG] Initialized window: leaderboard
+2026-04-16 20:07:56.827 +02:00 [DBG] Loaded data from: scores.json
+2026-04-16 20:07:56.830 +02:00 [DBG] Sorted Scores
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:07:56.831 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:08:50.713 +02:00 [DBG] Logger initialisiert
+2026-04-16 20:08:50.746 +02:00 [INF] Main Window Loaded
+2026-04-16 20:08:51.436 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:08:51.439 +02:00 [INF] Game Window Initialized
+2026-04-16 20:08:51.439 +02:00 [DBG] Settings Applied
+2026-04-16 20:08:51.439 +02:00 [DBG] Food created
+2026-04-16 20:08:51.450 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:08:51.452 +02:00 [DBG] Snake created
+2026-04-16 20:08:51.453 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:08:51.453 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:08:52.483 +02:00 [DBG] Snake moved Up
+2026-04-16 20:08:52.484 +02:00 [DBG] Canvas Updated
+2026-04-16 20:08:53.570 +02:00 [DBG] Snake moved Right
+2026-04-16 20:08:53.570 +02:00 [DBG] Canvas Updated
+2026-04-16 20:08:54.563 +02:00 [DBG] Snake moved Down
+2026-04-16 20:08:54.563 +02:00 [DBG] Canvas Updated
+2026-04-16 20:08:55.681 +02:00 [DBG] Snake moved Down
+2026-04-16 20:08:55.681 +02:00 [DBG] Canvas Updated
+2026-04-16 20:08:56.938 +02:00 [DBG] Snake moved Down
+2026-04-16 20:08:56.939 +02:00 [DBG] Canvas Updated
+2026-04-16 20:08:56.940 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:08:56.940 +02:00 [DBG] New Apple spawned
+2026-04-16 20:08:56.940 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:08:57.980 +02:00 [DBG] Snake moved Down
+2026-04-16 20:08:58.033 +02:00 [DBG] Canvas Updated
+2026-04-16 20:08:58.033 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:08:58.035 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:09:02.986 +02:00 [DBG] Game Closed=true
+2026-04-16 20:09:04.396 +02:00 [DBG] Leaderboards Button Pressed
+2026-04-16 20:09:04.399 +02:00 [DBG] Initialized window: leaderboard
+2026-04-16 20:09:04.400 +02:00 [DBG] Loaded data from: scores.json
+2026-04-16 20:09:04.403 +02:00 [DBG] Sorted Scores
+2026-04-16 20:09:04.404 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.404 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:04.405 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:11.850 +02:00 [DBG] Leaderboards Closed
+2026-04-16 20:09:13.072 +02:00 [DBG] Load Game Button Pressed
+2026-04-16 20:09:13.081 +02:00 [INF] Game Window (Loaded Option) Initialized
+2026-04-16 20:09:13.082 +02:00 [DBG] Settings Initialized
+2026-04-16 20:09:13.127 +02:00 [DBG] Tiles overwritten from save-file
+2026-04-16 20:09:13.129 +02:00 [DBG] Tiles and Lines applied to Canvas 11x11
+2026-04-16 20:09:13.130 +02:00 [DBG] Snake loaded from Save-file
+2026-04-16 20:09:13.320 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:13.320 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:13.512 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:13.512 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:13.668 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:13.668 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:13.842 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:13.842 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:13.998 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:13.999 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:14.230 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:14.230 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:14.417 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:14.417 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:14.568 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:14.569 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:14.727 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:14.727 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:14.727 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:09:14.727 +02:00 [DBG] New Apple spawned
+2026-04-16 20:09:14.727 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:09:14.882 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:14.882 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:15.130 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:15.130 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:15.333 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:15.333 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:15.581 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:15.582 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:15.782 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:15.782 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:15.968 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:15.968 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:16.309 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:16.309 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:16.464 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:16.465 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:16.773 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:16.774 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:16.990 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:16.990 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:16.990 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:09:16.990 +02:00 [DBG] New Apple spawned
+2026-04-16 20:09:16.990 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:09:17.390 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:17.391 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:17.607 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:17.607 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:17.825 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:17.825 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:17.980 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:17.980 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:18.228 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:18.228 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:18.382 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:18.383 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:18.587 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:18.587 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:18.773 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:18.773 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:18.974 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:18.975 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:19.350 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:19.350 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:19.506 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:19.507 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:19.784 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:19.784 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:20.094 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:20.094 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:20.296 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:20.299 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:20.499 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:20.499 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:21.010 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:21.011 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:21.244 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:21.244 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:21.480 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:21.480 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:21.680 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:21.680 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:21.895 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:21.909 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:22.173 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:22.173 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:22.392 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:22.393 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:22.579 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:22.579 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:22.813 +02:00 [DBG] Snake moved Right
+2026-04-16 20:09:22.814 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:22.814 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:09:22.814 +02:00 [DBG] New Apple spawned
+2026-04-16 20:09:22.814 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:09:23.032 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:23.032 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:23.266 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:23.266 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:23.422 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:23.423 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:23.654 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:23.654 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:23.856 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:23.856 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:24.072 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:24.073 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:24.291 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:24.292 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:24.648 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:24.649 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:24.836 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:24.837 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:25.021 +02:00 [DBG] Snake moved Down
+2026-04-16 20:09:25.021 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:25.284 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:25.284 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:25.579 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:25.580 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:25.810 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:25.811 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:26.017 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:26.017 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:26.338 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:26.338 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:26.567 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:26.568 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:26.769 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:26.770 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:27.188 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:27.188 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:27.375 +02:00 [DBG] Snake moved Left
+2026-04-16 20:09:27.375 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:27.608 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:27.609 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:27.810 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:27.811 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:28.045 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:28.045 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:28.198 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:28.198 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:28.199 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:09:28.199 +02:00 [DBG] New Apple spawned
+2026-04-16 20:09:28.199 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:09:28.371 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:28.371 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:28.542 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:28.542 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:28.775 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:28.776 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:29.101 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:29.102 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:29.410 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:29.411 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:29.690 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:29.690 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:30.155 +02:00 [DBG] Snake moved Up
+2026-04-16 20:09:30.185 +02:00 [DBG] Canvas Updated
+2026-04-16 20:09:30.185 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:09:30.186 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:09:41.838 +02:00 [DBG] Loaded file: Scores
+2026-04-16 20:09:41.839 +02:00 [DBG] Added Name to List
+2026-04-16 20:09:41.839 +02:00 [DBG] Safed file: Scores
+2026-04-16 20:09:41.864 +02:00 [DBG] Game Closed=true
+2026-04-16 20:09:47.731 +02:00 [DBG] Settings Button Pressed
+2026-04-16 20:09:47.734 +02:00 [DBG] Slider: Feldweite changed to 5
+2026-04-16 20:09:47.735 +02:00 [DBG] Slider: Feldhöhe changed to 5
+2026-04-16 20:09:47.736 +02:00 [DBG] Slider: Startlength changed to 1
+2026-04-16 20:09:47.736 +02:00 [DBG] Slider: Startspeed changed to 1
+2026-04-16 20:09:47.736 +02:00 [DBG] Settings window initialized
+2026-04-16 20:09:47.736 +02:00 [DBG] Slider: Feldweite changed to 11
+2026-04-16 20:09:47.736 +02:00 [DBG] Slider: Feldhöhe changed to 11
+2026-04-16 20:09:47.736 +02:00 [DBG] Slider: Startlength changed to 5
+2026-04-16 20:09:47.736 +02:00 [DBG] Slider: Startspeed changed to 7
+2026-04-16 20:09:47.736 +02:00 [DBG] Loaded current Settings into GUI
+2026-04-16 20:09:49.051 +02:00 [DBG] Attempted to quit Settings
+2026-04-16 20:09:49.051 +02:00 [DBG] Safed current settings
+2026-04-16 20:09:49.061 +02:00 [DBG] Settings Closed
+2026-04-16 20:09:49.758 +02:00 [DBG] Leaderboards Button Pressed
+2026-04-16 20:09:49.758 +02:00 [DBG] Initialized window: leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Loaded data from: scores.json
+2026-04-16 20:09:49.759 +02:00 [DBG] Sorted Scores
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:49.759 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:09:55.516 +02:00 [DBG] Leaderboards Closed
+2026-04-16 20:13:09.059 +02:00 [DBG] Logger initialisiert
+2026-04-16 20:13:09.098 +02:00 [INF] Main Window Loaded
+2026-04-16 20:13:23.055 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:13:23.058 +02:00 [INF] Game Window Initialized
+2026-04-16 20:13:23.058 +02:00 [DBG] Settings Applied
+2026-04-16 20:13:23.059 +02:00 [DBG] Food created
+2026-04-16 20:13:23.069 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:13:23.071 +02:00 [DBG] Snake created
+2026-04-16 20:13:23.072 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:13:23.072 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:13:24.179 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:24.180 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:25.219 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:25.219 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:26.227 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:26.227 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:26.228 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:26.228 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:26.229 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:27.346 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:27.347 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:28.386 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:28.388 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:28.388 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:28.388 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:28.388 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:29.514 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:29.515 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:30.526 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:30.526 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:31.566 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:31.566 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:32.577 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:32.577 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:33.583 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:33.583 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:34.605 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:34.606 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:34.606 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:34.606 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:34.606 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:35.800 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:35.801 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:36.814 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:36.814 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:37.840 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:37.840 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:37.841 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:37.841 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:37.841 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:38.835 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:38.836 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:40.305 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:40.306 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:41.330 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:41.330 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:42.680 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:42.680 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:42.681 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:42.681 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:42.681 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:43.810 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:43.811 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:44.820 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:44.821 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:45.872 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:45.873 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:47.113 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:47.113 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:48.123 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:48.123 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:48.123 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:48.123 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:48.123 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:49.209 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:49.209 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:50.203 +02:00 [DBG] Snake moved Right
+2026-04-16 20:13:50.203 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:51.286 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:51.287 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:52.324 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:52.324 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:53.315 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:53.315 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:54.382 +02:00 [DBG] Snake moved Up
+2026-04-16 20:13:54.383 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:54.383 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:13:54.383 +02:00 [DBG] New Apple spawned
+2026-04-16 20:13:54.383 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:13:55.578 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:55.579 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:56.662 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:56.662 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:57.683 +02:00 [DBG] Snake moved Left
+2026-04-16 20:13:57.684 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:58.691 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:58.692 +02:00 [DBG] Canvas Updated
+2026-04-16 20:13:59.873 +02:00 [DBG] Snake moved Down
+2026-04-16 20:13:59.873 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:00.941 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:00.941 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:01.964 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:01.964 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:03.052 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:03.052 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:04.047 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:04.048 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:05.133 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:05.133 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:06.131 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:06.131 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:07.169 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:07.170 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:08.159 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:08.160 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:09.202 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:09.203 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:09.203 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:14:09.203 +02:00 [DBG] New Apple spawned
+2026-04-16 20:14:09.203 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:14:10.378 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:10.378 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:11.509 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:11.509 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:12.732 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:12.732 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:13.773 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:13.774 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:14.801 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:14.802 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:15.828 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:15.828 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:16.912 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:16.913 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:17.936 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:17.937 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:18.964 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:18.964 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:18.965 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:14:18.965 +02:00 [DBG] New Apple spawned
+2026-04-16 20:14:18.965 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:14:19.973 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:19.974 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:19.974 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:14:19.974 +02:00 [DBG] New Apple spawned
+2026-04-16 20:14:19.974 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:14:21.000 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:21.000 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:22.162 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:22.163 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:22.163 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:14:22.163 +02:00 [DBG] New Apple spawned
+2026-04-16 20:14:22.163 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:14:23.239 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:23.240 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:24.263 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:24.263 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:25.289 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:25.290 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:26.315 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:26.316 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:27.334 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:27.334 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:28.373 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:28.376 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:29.461 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:29.462 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:30.472 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:30.472 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:31.512 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:31.513 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:32.503 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:32.504 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:33.516 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:33.517 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:33.517 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:14:33.517 +02:00 [DBG] New Apple spawned
+2026-04-16 20:14:33.517 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:14:34.633 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:34.634 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:35.637 +02:00 [DBG] Snake moved Right
+2026-04-16 20:14:35.638 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:36.689 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:36.690 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:37.731 +02:00 [DBG] Snake moved Down
+2026-04-16 20:14:37.732 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:38.756 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:38.756 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:39.812 +02:00 [DBG] Snake moved Left
+2026-04-16 20:14:39.812 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:39.813 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:14:39.813 +02:00 [DBG] New Apple spawned
+2026-04-16 20:14:39.813 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:14:40.835 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:40.835 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:41.874 +02:00 [DBG] Snake moved Up
+2026-04-16 20:14:41.875 +02:00 [DBG] Canvas Updated
+2026-04-16 20:14:41.875 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:14:41.877 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:14:57.492 +02:00 [DBG] Loaded file: Scores
+2026-04-16 20:14:57.492 +02:00 [DBG] Added Name to List
+2026-04-16 20:14:57.493 +02:00 [DBG] Safed file: Scores
+2026-04-16 20:14:57.522 +02:00 [DBG] Game Closed=true
+2026-04-16 20:15:00.763 +02:00 [DBG] Settings Button Pressed
+2026-04-16 20:15:00.766 +02:00 [DBG] Slider: Feldweite changed to 5
+2026-04-16 20:15:00.767 +02:00 [DBG] Slider: Feldhöhe changed to 5
+2026-04-16 20:15:00.767 +02:00 [DBG] Slider: Startlength changed to 1
+2026-04-16 20:15:00.767 +02:00 [DBG] Slider: Startspeed changed to 1
+2026-04-16 20:15:00.768 +02:00 [DBG] Settings window initialized
+2026-04-16 20:15:00.768 +02:00 [DBG] Loaded current Settings into GUI
+2026-04-16 20:15:04.664 +02:00 [DBG] Slider: Feldweite changed to 6
+2026-04-16 20:15:04.767 +02:00 [DBG] Slider: Feldweite changed to 7
+2026-04-16 20:15:04.826 +02:00 [DBG] Slider: Feldweite changed to 8
+2026-04-16 20:15:04.873 +02:00 [DBG] Slider: Feldweite changed to 9
+2026-04-16 20:15:04.901 +02:00 [DBG] Slider: Feldweite changed to 10
+2026-04-16 20:15:06.349 +02:00 [DBG] Slider: Feldhöhe changed to 6
+2026-04-16 20:15:06.422 +02:00 [DBG] Slider: Feldhöhe changed to 7
+2026-04-16 20:15:06.554 +02:00 [DBG] Slider: Feldhöhe changed to 8
+2026-04-16 20:15:06.687 +02:00 [DBG] Slider: Feldhöhe changed to 9
+2026-04-16 20:15:06.872 +02:00 [DBG] Slider: Feldhöhe changed to 10
+2026-04-16 20:15:07.784 +02:00 [DBG] Slider: Feldhöhe changed to 11
+2026-04-16 20:15:12.110 +02:00 [DBG] Slider: Startlength changed to 2
+2026-04-16 20:15:13.694 +02:00 [DBG] Slider: Startspeed changed to 2
+2026-04-16 20:15:13.802 +02:00 [DBG] Slider: Startspeed changed to 3
+2026-04-16 20:15:13.947 +02:00 [DBG] Slider: Startspeed changed to 4
+2026-04-16 20:15:15.245 +02:00 [DBG] Attempted to quit Settings
+2026-04-16 20:15:15.246 +02:00 [DBG] Safed current settings
+2026-04-16 20:15:15.256 +02:00 [DBG] Settings Closed
+2026-04-16 20:15:16.862 +02:00 [DBG] Settings Button Pressed
+2026-04-16 20:15:16.863 +02:00 [DBG] Slider: Feldweite changed to 5
+2026-04-16 20:15:16.863 +02:00 [DBG] Slider: Feldhöhe changed to 5
+2026-04-16 20:15:16.863 +02:00 [DBG] Slider: Startlength changed to 1
+2026-04-16 20:15:16.863 +02:00 [DBG] Slider: Startspeed changed to 1
+2026-04-16 20:15:16.864 +02:00 [DBG] Settings window initialized
+2026-04-16 20:15:16.864 +02:00 [DBG] Slider: Feldweite changed to 10
+2026-04-16 20:15:16.864 +02:00 [DBG] Slider: Feldhöhe changed to 11
+2026-04-16 20:15:16.864 +02:00 [DBG] Slider: Startlength changed to 2
+2026-04-16 20:15:16.864 +02:00 [DBG] Slider: Startspeed changed to 4
+2026-04-16 20:15:16.864 +02:00 [DBG] Loaded current Settings into GUI
+2026-04-16 20:15:19.602 +02:00 [DBG] Attempted to quit Settings
+2026-04-16 20:15:19.602 +02:00 [DBG] Safed current settings
+2026-04-16 20:15:19.613 +02:00 [DBG] Settings Closed
+2026-04-16 20:15:20.471 +02:00 [DBG] Leaderboards Button Pressed
+2026-04-16 20:15:20.474 +02:00 [DBG] Initialized window: leaderboard
+2026-04-16 20:15:20.474 +02:00 [DBG] Loaded data from: scores.json
+2026-04-16 20:15:20.477 +02:00 [DBG] Sorted Scores
+2026-04-16 20:15:20.478 +02:00 [DBG] Added scores to Leaderboard
+2026-04-16 20:15:29.284 +02:00 [DBG] Leaderboards Closed
+2026-04-16 20:15:30.204 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:15:30.204 +02:00 [INF] Game Window Initialized
+2026-04-16 20:15:30.204 +02:00 [DBG] Settings Applied
+2026-04-16 20:15:30.204 +02:00 [DBG] Food created
+2026-04-16 20:15:30.220 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:15:30.220 +02:00 [DBG] Snake created
+2026-04-16 20:15:30.220 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:15:30.220 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:15:30.512 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:30.512 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:30.760 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:30.760 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:31.012 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:31.012 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:31.322 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:31.323 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:31.570 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:31.571 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:31.866 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:31.866 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:32.144 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:32.144 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:32.454 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:32.454 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:32.856 +02:00 [DBG] Snake moved Left
+2026-04-16 20:15:32.857 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:33.136 +02:00 [DBG] Snake moved Left
+2026-04-16 20:15:33.181 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:33.181 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:15:33.181 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:15:36.107 +02:00 [DBG] Game Closed=true
+2026-04-16 20:15:40.502 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:15:40.502 +02:00 [INF] Game Window Initialized
+2026-04-16 20:15:40.502 +02:00 [DBG] Settings Applied
+2026-04-16 20:15:40.502 +02:00 [DBG] Food created
+2026-04-16 20:15:40.513 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:15:40.514 +02:00 [DBG] Snake created
+2026-04-16 20:15:40.514 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:15:40.514 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:15:40.874 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:40.874 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:41.135 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:41.135 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:41.430 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:41.430 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:41.711 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:41.711 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:41.974 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:41.977 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:42.254 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:42.254 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:42.517 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:42.517 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:42.812 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:42.812 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:43.135 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:43.135 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:43.445 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:43.445 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:43.816 +02:00 [DBG] Snake moved Up
+2026-04-16 20:15:43.837 +02:00 [DBG] Canvas Updated
+2026-04-16 20:15:43.837 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:15:43.838 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:15:51.589 +02:00 [DBG] Game Closed=true
+2026-04-16 20:16:21.183 +02:00 [DBG] Logger initialisiert
+2026-04-16 20:16:21.225 +02:00 [INF] Main Window Loaded
+2026-04-16 20:16:21.816 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:16:21.819 +02:00 [INF] Game Window Initialized
+2026-04-16 20:16:21.819 +02:00 [DBG] Settings Applied
+2026-04-16 20:16:21.819 +02:00 [DBG] Food created
+2026-04-16 20:16:21.827 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:16:21.829 +02:00 [DBG] Snake created
+2026-04-16 20:16:21.830 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:16:21.830 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:16:23.051 +02:00 [DBG] Snake moved Up
+2026-04-16 20:16:23.051 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:24.117 +02:00 [DBG] Snake moved Up
+2026-04-16 20:16:24.118 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:25.235 +02:00 [DBG] Snake moved Right
+2026-04-16 20:16:25.235 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:26.257 +02:00 [DBG] Snake moved Right
+2026-04-16 20:16:26.257 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:27.296 +02:00 [DBG] Snake moved Right
+2026-04-16 20:16:27.296 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:27.297 +02:00 [DBG] Snake grew in Size by: 1
+2026-04-16 20:16:27.297 +02:00 [DBG] New Apple spawned
+2026-04-16 20:16:27.297 +02:00 [DBG] Score went up by: 1
+2026-04-16 20:16:28.354 +02:00 [DBG] Snake moved Right
+2026-04-16 20:16:28.354 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:29.373 +02:00 [DBG] Snake moved Right
+2026-04-16 20:16:29.423 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:29.424 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:16:29.426 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:16:30.441 +02:00 [DBG] Game Closed=true
+2026-04-16 20:16:31.198 +02:00 [DBG] New Game Button Pressed
+2026-04-16 20:16:31.199 +02:00 [INF] Game Window Initialized
+2026-04-16 20:16:31.199 +02:00 [DBG] Settings Applied
+2026-04-16 20:16:31.199 +02:00 [DBG] Food created
+2026-04-16 20:16:31.205 +02:00 [DBG] Made Tiles & Lines
+2026-04-16 20:16:31.205 +02:00 [DBG] Snake created
+2026-04-16 20:16:31.205 +02:00 [DBG] Create Dispatcher Timer
+2026-04-16 20:16:31.205 +02:00 [DBG] Start Dispatcher Timer
+2026-04-16 20:16:32.324 +02:00 [DBG] Snake moved Up
+2026-04-16 20:16:32.324 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:33.395 +02:00 [DBG] Snake moved Up
+2026-04-16 20:16:33.395 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:34.390 +02:00 [DBG] Snake moved Left
+2026-04-16 20:16:34.420 +02:00 [DBG] Canvas Updated
+2026-04-16 20:16:34.420 +02:00 [DBG] Snake Collided with itself
+2026-04-16 20:16:34.421 +02:00 [DBG] Initialized window: namen_eintragen
+2026-04-16 20:16:35.537 +02:00 [DBG] Game Closed=true

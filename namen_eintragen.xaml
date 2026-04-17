@@ -1,0 +1,31 @@
+﻿<Window x:Class="Snake.namen_eintragen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="namen_eintragen" Height="450" Width="400">
+    <Canvas>
+        <!-- KI: Chatgpt -->
+        <!-- Prompt: wenn ich ein rect habe in wpf c# kann ich irgendwie einen gradient machen damit es in der mitte heller ist und je weiter nach außen desto dünkler wird es -->
+        <!-- KI-Anfang -->
+        <Rectangle Width="420" Height="485">
+            <Rectangle.Fill>
+                <RadialGradientBrush>
+                    <!-- Mitte (hell) -->
+                    <GradientStop Color="#4D4864" Offset="0.0"/>
+
+                    <!-- Rand (dunkler) -->
+                    <GradientStop Color="#1C1923" Offset="1.0"/>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label Content="Dein Score: " Name="Score_label" Foreground="#7AFE80" FontSize="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Center" Width="400"></Label>
+        <Label Content="Unter welchem Namen willst du verewigt werden?" Name="label_name" Foreground="#7AFE80" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" Width="400" Canvas.Top="66"></Label>
+        <TextBox Canvas.Left="30" TextWrapping="Wrap" Text="" Canvas.Top="115" Width="340" HorizontalAlignment="Center" VerticalAlignment="Top" Name="Textbox_name"/>
+        <Button Content="Continue" Canvas.Left="120" Canvas.Top="200" HorizontalAlignment="Center" VerticalAlignment="Top" Width="160" Height="61" Background="#7AFE80" Click="Button_Click"/>
+        <!-- KI-Ende -->
+
+    </Canvas>
+</Window>
